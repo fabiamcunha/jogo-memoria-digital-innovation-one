@@ -4,4 +4,4 @@
  1. javascript
  2. html 
  3. css 
-![telea inicial](jogo memoria.png)
+
